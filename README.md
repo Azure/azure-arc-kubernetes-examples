@@ -5,15 +5,15 @@ WIP for Azure Arc examples
 ## Contents
 You can find examples in the structure below
 
-| File/folder       | Description                                   |
-|-------------------|-----------------------------------------------|
-| `~/service-delivery`      | Sample source code.                   |
-| `~/hybrid-environment`    | Define what to ignore at commit time. |
+| File/folder               | Description                                       |
+|---------------------------|---------------------------------------------------|
+| `~/service-delivery`      | Service mesh, runtime scanning, monitoring, etc.  |
+| `~/hybrid-environment`    | Multi-cloud, multi-region, etc.                   |
 
 
 ## Prerequisites
 
-Outline the required components and tools that a user might need to have on their machine in order to run the sample. This can be anything from frameworks, SDKs, OS versions or IDE releases.
+Add link to Arc install here.
 
 
 ## Contributing
